@@ -1,0 +1,33 @@
+form {
+    position: fixed;
+    left: 100;
+    top: 10%;
+    width: 300px;
+    background: transparent;
+    padding: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+legend{
+    color: white;
+    font-size: 20px;
+}
+
+input {
+    width: 250px;
+    height: 25px;
+}
+
+legend{
+    text-align: center;
+}
+.botones {
+    text-align: center;
+        
+}
+
+.licencia {
+    color: #ffffff;
+    text-align: center;
+}
